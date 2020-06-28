@@ -1,7 +1,7 @@
 {
   "server": [
     {
-      "id": "mckismetlab-mainserver",
+      "id": "mckismetlab-main-server",
       "name": "mcKismetLab Main Mods Server",
       "icon": "",
       "version": "1.0.0",
@@ -44,8 +44,8 @@
       "time": "2020/6/27 上午10:19:08"
     },
     {
-      "id": "",
-      "name": "",
+      "id": "mckismetlab-deputy-server",
+      "name": "mcKismetLab Deputy Mods Server",
       "icon": "",
       "version": "",
       "address": "",
