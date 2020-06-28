@@ -1,4 +1,4 @@
-[
+[{
 	{
 		"id": "mckismetlab-mainserver",
 		"name": "mcKismetLab Main Mods Server",
@@ -25,24 +25,24 @@
 						"path": "net/minecraftforge/forge/1.12.2-14.23.5.2796/forge-1.12.2-14.23.5.2796.jar"
 					}
 				}
-		},
-		"modules": [
-			{
-				"id": "ItemBlacklist-1.4.3.jar",
-				"name": "Item Blacklistr",
-				"version": "1.4.3",
-				"type": "ForgeMod",
-				"action": "ADD",
-				"download": {
-					"projectID": "237226",
-					"filesID": "2776296"
+			},
+			"modules": [
+				{
+					"id": "ItemBlacklist-1.4.3.jar",
+					"name": "Item Blacklistr",
+					"version": "1.4.3",
+					"type": "ForgeMod",
+					"action": "ADD",
+					"download": {
+						"projectID": "237226",
+						"filesID": "2776296"
+					}
 				}
-			}
-		],
-		"time": "2020/6/27 上午10:19:08"
-	},
-	{
-		"id": "mckismetlab-mainserver",
-		"name": "mcKismetLab Main Mods Server",
-	}
-]
+			],
+			"time": "2020/6/27 上午10:19:08"
+		},
+		{
+			"id": "mckismetlab-mainserver",
+			"name": "mcKismetLab Main Mods Server"
+		}
+}]
