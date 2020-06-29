@@ -1,5 +1,6 @@
 {
-  "server": [
+  "version": "0.0.1",
+  "serverList": [
     {
       "id": "mckismetlab-main-server",
       "name": "mcKismetLab Main Mods Server",
