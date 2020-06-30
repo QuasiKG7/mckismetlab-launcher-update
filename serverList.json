@@ -6,7 +6,14 @@
       "name": "mcKismetLab Main Mods Server",
       "icon": "",
       "version": "1.0.0",
-      "address": "mcKismetLab.net",
+      "server": {
+        "address": "mcKismetLab.net",
+        "version": "1.0.0",
+        "name": "server.dat",
+        "download": {
+          "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
+        }
+      },
       "minecraftVersion": "1.12.2",
       "minecraftType": "minecraftModpack",
       "minecraftTypeID": "1",
