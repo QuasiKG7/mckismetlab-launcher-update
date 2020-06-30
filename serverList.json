@@ -17,15 +17,15 @@
         "version": "1.4.0"
       },
       "modLoaders": {
-        "id": "forge-14.23.5.2796",
-        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2796",
-        "version": "1.12.2-forge-14.23.5.2796",
+        "id": "forge-14.23.5.2854",
+        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
+        "version": "1.12.2-forge-14.23.5.2854",
         "download": {
           "artifact": {
             "sha1": "",
             "size": "",
             "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
-            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2796/forge-1.12.2-14.23.5.2796.jar"
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar"
           }
         }
       },
