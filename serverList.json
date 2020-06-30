@@ -17,7 +17,8 @@
         "version": "1.4.0"
       },
       "modLoaders": {
-        "id": "forge-14.23.5.2854",
+        "id": "forge-1.12.2-14.23.5.2854",
+        "fileName": "forge-1.12.2-14.23.5.2854.jar",
         "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
         "version": "1.12.2-forge-14.23.5.2854",
         "download": {
