@@ -14,21 +14,21 @@
         "name": "FTB Sky Adventures",
         "projectID": "304542",
         "filesID": "2658207",
-        "version": "1.4.0",
-        "modLoaders": {
-          "id": "forge-14.23.5.2796",
-          "name": "net.minecraftforge:forge:1.12.2-14.23.5.2796",
-          "version": "1.12.2-forge-14.23.5.2796",
-          "download": {
-            "artifact": {
-              "sha1": "",
-              "size": "",
-              "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
-              "path": "net/minecraftforge/forge/1.12.2-14.23.5.2796/forge-1.12.2-14.23.5.2796.jar"
-            }
+        "version": "1.4.0"
+      },
+      "modLoaders": {
+        "id": "forge-14.23.5.2796",
+        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2796",
+        "version": "1.12.2-forge-14.23.5.2796",
+        "download": {
+          "artifact": {
+            "sha1": "",
+            "size": "",
+            "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2796/forge-1.12.2-14.23.5.2796.jar"
           }
         }
-      },
+      }
       "modules": [
         {
           "id": "ItemBlacklist-1.4.3.jar",
