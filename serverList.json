@@ -18,7 +18,7 @@
         "modLoaders": {
           "id": "forge-14.23.5.2796",
           "name": "net.minecraftforge:forge:1.12.2-14.23.5.2796",
-          "version": "1.12.2-14.23.5.2796",
+          "version": "1.12.2-forge-14.23.5.2796",
           "download": {
             "artifact": {
               "sha1": "",
@@ -35,7 +35,7 @@
           "name": "Item Blacklistr",
           "version": "1.4.3",
           "type": "ForgeMod",
-          "action": "ADD",
+          "action": "add",
           "download": {
             "projectID": "237226",
             "filesID": "2776296"
@@ -72,6 +72,19 @@
           }
         }
       },
+      "modules": null,
+      "time": "2020/6/27 上午10:19:08"
+    },
+    {
+      "id": "mckismetlab-test-server",
+      "name": "mcKismetLab test vanilla Server",
+      "icon": "",
+      "version": "0.0.1",
+      "address": "mckismetlab.net",
+      "minecraftVersion": "1.15.2",
+      "minecraftType": "minecraftVanilla",
+      "minecraftTypeID": "0",
+      "modpacks": null,
       "modules": null,
       "time": "2020/6/27 上午10:19:08"
     }
