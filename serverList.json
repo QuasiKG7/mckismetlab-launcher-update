@@ -28,7 +28,7 @@
             "path": "net/minecraftforge/forge/1.12.2-14.23.5.2796/forge-1.12.2-14.23.5.2796.jar"
           }
         }
-      }
+      },
       "modules": [
         {
           "id": "ItemBlacklist-1.4.3.jar",
