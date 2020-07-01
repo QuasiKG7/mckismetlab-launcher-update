@@ -44,10 +44,8 @@
           "version": "1.4.3",
           "type": "ForgeMod",
           "action": "add",
-          "download": {
-            "projectID": "237226",
-            "filesID": "2776296"
-          }
+          "projectID": "237226",
+          "filesID": "2776296"
         }
       ],
       "time": "2020/6/27 上午10:19:08"
