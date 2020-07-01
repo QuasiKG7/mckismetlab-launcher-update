@@ -9,7 +9,7 @@
       "server": {
         "address": "mcKismetLab.net",
         "version": "1.0.0",
-        "name": "server.dat",
+        "name": "servers.dat",
         "download": {
           "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
         }
