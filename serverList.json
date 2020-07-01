@@ -88,7 +88,7 @@
       "name": "mcKismetLab test vanilla Server",
       "icon": "",
       "version": "0.0.1",
-      "address": "mckismetlab.net",
+      "server": null,
       "minecraftVersion": "1.15.2",
       "minecraftType": "minecraftVanilla",
       "minecraftTypeID": "0",
