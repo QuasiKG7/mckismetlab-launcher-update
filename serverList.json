@@ -66,12 +66,7 @@
       "minecraftVersion": "1.15.2",
       "minecraftType": "minecraftModpack",
       "minecraftTypeID": "1",
-      "modpacks": {
-        "name": "Valhelsia 2",
-        "projectID": "357858",
-        "filesID": "2983971",
-        "version": "2.2.3"
-      },
+      "modpacks": null,
       "modLoaders": {
         "id": "forge-1.15.2-31.2.21",
         "fileName": "forge-1.15.2-31.2.21.jar",
@@ -86,7 +81,26 @@
           }
         }
       },
-      "modules": null,
+      "modules": [
+        {
+          "id": "jei-1.15.2-6.0.2.12.jar",
+          "name": "Just Enough Items (JEI)",
+          "version": "6.0.2.12",
+          "type": "ForgeMod",
+          "action": "add",
+          "projectID": "238222",
+          "fileID": "2988823"
+        },
+        {
+          "id": "ironchest-1.15.2-10.0.3.jar",
+          "name": "Iron Chests",
+          "version": "10.0.3",
+          "type": "ForgeMod",
+          "action": "add",
+          "projectID": "228756",
+          "fileID": "2898344"
+        }
+      ],
       "time": "2020/6/27 上午10:19:08"
     },
     {
