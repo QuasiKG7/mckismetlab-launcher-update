@@ -54,27 +54,35 @@
       "id": "mckismetlab-deputy-server",
       "name": "mcKismetLab Deputy Mods Server",
       "icon": "",
-      "version": "",
-      "address": "",
-      "minecraftVersion": "",
-      "minecraftType": "",
-      "minecraftTypeID": "",
+      "version": "1.0.0",
+      "server": {
+        "address": "mcKismetLab.net",
+        "version": "1.0.0",
+        "name": "servers.dat",
+        "download": {
+          "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
+        }
+      },
+      "minecraftVersion": "1.15.2",
+      "minecraftType": "minecraftModpack",
+      "minecraftTypeID": "1",
       "modpacks": {
-        "name": "",
-        "projectID": "",
-        "filesID": "",
-        "version": "",
-        "modLoaders": {
-          "id": "",
-          "name": "",
-          "version": "",
-          "download": {
-            "artifact": {
-              "sha1": "",
-              "size": "",
-              "url": "",
-              "path": "net/minecraftforge/forge/"
-            }
+        "name": "Valhelsia 2",
+        "projectID": "357858",
+        "filesID": "2983971",
+        "version": "2.2.3"
+      },
+      "modLoaders": {
+        "id": "forge-1.15.2-31.2.21",
+        "fileName": "forge-1.15.2-31.2.21.jar",
+        "name": "net.minecraftforge:forge:1.15.2-31.2.21",
+        "version": "1.15.2-forge-31.2.21",
+        "download": {
+          "artifact": {
+            "sha1": "",
+            "size": "",
+            "url": "",
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.15.2-31.2.21.jar"
           }
         }
       },
