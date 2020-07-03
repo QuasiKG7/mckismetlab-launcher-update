@@ -70,7 +70,10 @@
       "modpacks": null,
       "modLoaders": {
         "id": "forge-1.15.2-31.2.21-installer",
-        "client": "forge-1.15.2-31.2.21-client",
+        "client": {
+          "fileName": "forge-1.15.2-31.2.21-client",
+          "path": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-client.jar"
+        },
         "fileName": "forge-1.15.2-31.2.21-installer.jar",
         "name": "net.minecraftforge:forge:1.15.2-31.2.21",
         "version": "1.15.2-forge-31.2.21",
