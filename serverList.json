@@ -34,7 +34,8 @@
             "sha1": "",
             "size": "",
             "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
-            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar"
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
+            "extractPath": null
           }
         }
       },
@@ -82,7 +83,8 @@
             "sha1": "",
             "size": "",
             "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-installer.jar",
-            "path": null
+            "path": null,
+            "extractPath": "net/minecraftforge/forge/1.15.2-31.2.21"
           }
         }
       },
