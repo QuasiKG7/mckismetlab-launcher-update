@@ -25,6 +25,7 @@
       },
       "modLoaders": {
         "id": "forge-1.12.2-14.23.5.2854",
+        "client": null,
         "fileName": "forge-1.12.2-14.23.5.2854.jar",
         "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
         "version": "1.12.2-forge-14.23.5.2854",
@@ -69,6 +70,7 @@
       "modpacks": null,
       "modLoaders": {
         "id": "forge-1.15.2-31.2.21-installer",
+        "client": "forge-1.15.2-31.2.21-client",
         "fileName": "forge-1.15.2-31.2.21-installer.jar",
         "name": "net.minecraftforge:forge:1.15.2-31.2.21",
         "version": "1.15.2-forge-31.2.21",
