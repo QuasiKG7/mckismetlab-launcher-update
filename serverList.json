@@ -68,8 +68,8 @@
       "minecraftTypeID": "1",
       "modpacks": null,
       "modLoaders": {
-        "id": "forge-1.15.2-31.2.21",
-        "fileName": "forge-1.15.2-31.2.21.jar",
+        "id": "forge-1.15.2-31.2.21-installer",
+        "fileName": "forge-1.15.2-31.2.21-installer.jar",
         "name": "net.minecraftforge:forge:1.15.2-31.2.21",
         "version": "1.15.2-forge-31.2.21",
         "download": {
