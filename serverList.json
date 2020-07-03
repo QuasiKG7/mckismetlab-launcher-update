@@ -84,7 +84,8 @@
             "size": "",
             "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-installer.jar",
             "path": null,
-            "extractPath": "net/minecraftforge/forge/1.15.2-31.2.21"
+            "extractPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21.jar",
+            "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-universal.jar"
           }
         }
       },
