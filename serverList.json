@@ -7,6 +7,7 @@
       "icon": "",
       "server": {
         "address": "mcKismetLab.net",
+        "port": "56123",
         "name": "servers.dat",
         "download": {
           "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
@@ -56,6 +57,7 @@
       "icon": "",
       "server": {
         "address": "mcKismetLab.net",
+        "port": "56124",
         "name": "servers.dat",
         "download": {
           "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
