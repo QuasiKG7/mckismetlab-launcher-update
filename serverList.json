@@ -58,7 +58,7 @@
       "name": "mcKismetLab Deputy Mods Server",
       "icon": "",
       "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
-      "action": "disallow",
+      "action": "allow",
       "server": {
         "address": "mcKismetLab.net",
         "port": "56124",
@@ -117,6 +117,7 @@
       "id": "mckismetlab-test-server",
       "name": "mcKismetLab test vanilla Server",
       "icon": "",
+	  "action": "disallow",
       "server": null,
       "minecraftVersion": "1.15.2",
       "minecraftType": "minecraftVanilla",
