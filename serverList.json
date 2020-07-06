@@ -6,6 +6,7 @@
       "name": "mcKismetLab Main Mods Server",
       "icon": "",
       "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
+      "action": "allow",
       "server": {
         "address": "mcKismetLab.net",
         "port": "56123",
@@ -57,6 +58,7 @@
       "name": "mcKismetLab Deputy Mods Server",
       "icon": "",
       "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
+      "action": "disallow",
       "server": {
         "address": "mcKismetLab.net",
         "port": "56124",
