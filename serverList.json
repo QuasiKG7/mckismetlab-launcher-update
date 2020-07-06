@@ -1,14 +1,12 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
       "name": "mcKismetLab Main Mods Server",
       "icon": "",
-      "version": "1.0.0",
       "server": {
         "address": "mcKismetLab.net",
-        "version": "1.0.0",
         "name": "servers.dat",
         "download": {
           "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
@@ -56,10 +54,8 @@
       "id": "mckismetlab-deputy-server",
       "name": "mcKismetLab Deputy Mods Server",
       "icon": "",
-      "version": "1.0.0",
       "server": {
         "address": "mcKismetLab.net",
-        "version": "1.0.0",
         "name": "servers.dat",
         "download": {
           "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
@@ -115,7 +111,6 @@
       "id": "mckismetlab-test-server",
       "name": "mcKismetLab test vanilla Server",
       "icon": "",
-      "version": "0.0.1",
       "server": null,
       "minecraftVersion": "1.15.2",
       "minecraftType": "minecraftVanilla",
