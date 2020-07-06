@@ -5,7 +5,7 @@
       "id": "mckismetlab-main-server",
       "name": "mcKismetLab Main Mods Server",
       "icon": "",
-      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/newInfo.html",
+      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
       "server": {
         "address": "mcKismetLab.net",
         "port": "56123",
