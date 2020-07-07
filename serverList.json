@@ -1,5 +1,6 @@
 {
   "version": "0.0.3",
+  "time": "2020/6/27 上午10:19:08",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -50,8 +51,7 @@
           "projectID": "237226",
           "fileID": "2776296"
         }
-      ],
-      "time": "2020/6/27 上午10:19:08"
+      ]
     },
     {
       "id": "mckismetlab-deputy-server",
@@ -110,8 +110,7 @@
           "projectID": "228756",
           "fileID": "2898344"
         }
-      ],
-      "time": "2020/6/27 上午10:19:08"
+      ]
     },
     {
       "id": "mckismetlab-test-server",
