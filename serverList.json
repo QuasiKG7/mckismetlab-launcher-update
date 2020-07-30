@@ -5,7 +5,6 @@
     {
       "id": "mckismetlab-main-server",
       "name": "mcKismetLab Main Mods Server",
-      "icon": "",
       "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
       "action": "allow",
       "server": {
@@ -18,7 +17,6 @@
       },
       "minecraftVersion": "1.12.2",
       "minecraftType": "minecraftModpack",
-      "minecraftTypeID": "1",
       "modpacks": {
         "name": "FTB Sky Adventures",
         "projectID": "304542",
@@ -33,11 +31,10 @@
         "version": "1.12.2-forge-14.23.5.2854",
         "download": {
           "artifact": {
-            "sha1": "",
-            "size": "",
             "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
             "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
-            "extractPath": null
+            "extractPath": null,
+            "extractUniversalPath": null
           }
         }
       },
@@ -56,7 +53,6 @@
     {
       "id": "mckismetlab-deputy-server",
       "name": "mcKismetLab Deputy Mods Server",
-      "icon": "",
       "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
       "action": "allow",
       "server": {
@@ -69,7 +65,6 @@
       },
       "minecraftVersion": "1.15.2",
       "minecraftType": "minecraftModpack",
-      "minecraftTypeID": "1",
       "modpacks": null,
       "modLoaders": {
         "id": "forge-1.15.2-31.2.21-installer",
@@ -82,8 +77,6 @@
         "version": "1.15.2-forge-31.2.21",
         "download": {
           "artifact": {
-            "sha1": "",
-            "size": "",
             "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-installer.jar",
             "path": null,
             "extractPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21.jar",
@@ -115,12 +108,10 @@
     {
       "id": "mckismetlab-test-server",
       "name": "mcKismetLab test vanilla Server",
-      "icon": "",
-	  "action": "disallow",
+      "action": "disallow",
       "server": null,
       "minecraftVersion": "1.15.2",
       "minecraftType": "minecraftVanilla",
-      "minecraftTypeID": "0",
       "modpacks": null,
       "modules": null,
       "time": "2020/6/27 上午10:19:08"
