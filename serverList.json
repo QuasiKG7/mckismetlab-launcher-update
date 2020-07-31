@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "time": "2020/6/27 上午10:19:08",
   "serverList": [
     {
@@ -18,10 +18,10 @@
       "minecraftVersion": "1.12.2",
       "minecraftType": "minecraftModpack",
       "modpacks": {
-        "name": "FTB Sky Adventures",
-        "projectID": "304542",
-        "filesID": "2658207",
-        "version": "1.4.0"
+        "name": "FTB Presents Direwolf20",
+        "projectID": "281999",
+        "filesID": "2690085",
+        "version": "2.5.0"
       },
       "modLoaders": {
         "id": "forge-1.12.2-14.23.5.2854",
