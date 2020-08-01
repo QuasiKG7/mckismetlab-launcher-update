@@ -17,7 +17,13 @@
       },
       "minecraftVersion": "1.12.2",
       "minecraftType": "minecraftModpack",
-      "files": null,
+      "files": {
+        "filesName": "files",
+        "filesVersion": "0.1.0",
+        "download": {
+          "url": null
+        }
+      },
       "modpacks": {
         "name": "FTB Presents Direwolf20",
         "projectID": "281999",
@@ -66,12 +72,7 @@
       },
       "minecraftVersion": "1.15.2",
       "minecraftType": "minecraftModpack",
-      "files": {
-        "filesName": null,
-        "download": {
-          "url": null
-        }
-      },
+      "files": null,
       "modpacks": null,
       "modLoaders": {
         "id": "forge-1.15.2-31.2.21-installer",
