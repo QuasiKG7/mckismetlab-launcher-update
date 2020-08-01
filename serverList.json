@@ -1,5 +1,5 @@
 {
-  "version": "0.0.6",
+  "version": "0.0.7",
   "time": "2020/6/27 上午10:19:08",
   "serverList": [
     {
@@ -21,7 +21,7 @@
         "filesName": "files",
         "filesVersion": "0.1.0",
         "download": {
-          "url": null
+          "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/files/files.zip"
         }
       },
       "modpacks": {
