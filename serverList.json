@@ -55,7 +55,7 @@
             "id": "mckismetlab-deputy-server",
             "name": "mcKismetLab Deputy Mods Server",
             "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
-            "action": "allow",
+            "action": "disallow",
             "server": {
                 "address": "mcKismetLab.net",
                 "port": "56124",
