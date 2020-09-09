@@ -1,123 +1,123 @@
 {
-  "version": "0.0.8",
-  "time": "2020/9/7 下午3:27:59",
-  "serverList": [
-    {
-      "id": "mckismetlab-main-server",
-      "name": "mcKismetLab Main Mods Server",
-      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
-      "action": "allow",
-      "server": {
-        "address": "mcKismetLab.net",
-        "port": "56123",
-        "name": "server.dat",
-        "download": {
-          "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
-        }
-      },
-      "minecraftVersion": "1.12.2",
-      "minecraftType": "minecraftModpack",
-      "files": null,
-      "modpacks": {
-        "name": "Enigmatica 2: Expert Skyblock",
-        "projectID": "295448",
-        "filesID": "2896716",
-        "version": "1.35"
-      },
-      "modLoaders": {
-        "id": "forge-1.12.2-14.23.5.2847",
-        "fileName": "forge-1.12.2-14.23.5.2847.jar",
-        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
-        "version": "1.12.2-forge-14.23.5.2847",
-        "download": {
-          "artifact": {
-            "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2847.jar",
-            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847.jar",
-            "extractPath": null,
-            "extractUniversalPath": null
-          }
-        },
-        "client": null
-      },
-      "modules": [
+    "version": "0.0.9",
+    "time": "2020/9/9 下午12:54:47",
+    "serverList": [
         {
-          "id": "ItemBlacklist-1.4.3.jar",
-          "name": "Item Blacklistr",
-          "version": "1.4.3",
-          "type": "ForgeMod",
-          "action": "add",
-          "projectID": "237226",
-          "fileID": "2776296"
-        }
-      ]
-    },
-    {
-      "id": "mckismetlab-deputy-server",
-      "name": "mcKismetLab Deputy Mods Server",
-      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
-      "action": "allow",
-      "server": {
-        "address": "mcKismetLab.net",
-        "port": "56124",
-        "name": "servers.dat",
-        "download": {
-          "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
-        }
-      },
-      "minecraftVersion": "1.15.2",
-      "minecraftType": "minecraftModpack",
-      "files": null,
-      "modpacks": null,
-      "modLoaders": {
-        "id": "forge-1.15.2-31.2.21-installer",
-        "client": {
-          "fileName": "forge-1.15.2-31.2.21-client",
-          "path": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-client.jar"
-        },
-        "fileName": "forge-1.15.2-31.2.21-installer.jar",
-        "name": "net.minecraftforge:forge:1.15.2-31.2.21",
-        "version": "1.15.2-forge-31.2.21",
-        "download": {
-          "artifact": {
-            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-installer.jar",
-            "path": null,
-            "extractPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21.jar",
-            "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-universal.jar"
-          }
-        }
-      },
-      "modules": [
-        {
-          "id": "jei-1.15.2-6.0.2.12.jar",
-          "name": "Just Enough Items (JEI)",
-          "version": "6.0.2.12",
-          "type": "ForgeMod",
-          "action": "add",
-          "projectID": "238222",
-          "fileID": "2988823"
+            "id": "mckismetlab-main-server",
+            "name": "mcKismetLab Main Mods Server",
+            "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
+            "action": "allow",
+            "server": {
+                "address": "mcKismetLab.net",
+                "port": "56123",
+                "name": "server.dat",
+                "download": {
+                    "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
+                }
+            },
+            "minecraftVersion": "1.12.2",
+            "minecraftType": "minecraftModpack",
+            "files": null,
+            "modpacks": {
+                "name": "Enigmatica 2: Expert Skyblock",
+                "projectID": "295448",
+                "filesID": "2896716",
+                "version": "1.35"
+            },
+            "modLoaders": {
+                "id": "forge-1.12.2-14.23.5.2854",
+                "fileName": "forge-1.12.2-14.23.5.2854.jar",
+                "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
+                "version": "1.12.2-forge-14.23.5.2854",
+                "download": {
+                    "artifact": {
+                        "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2847.jar",
+                        "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
+                        "extractPath": null,
+                        "extractUniversalPath": null
+                    }
+                },
+                "client": null
+            },
+            "modules": [
+                {
+                    "id": "ItemBlacklist-1.4.3.jar",
+                    "name": "Item Blacklistr",
+                    "version": "1.4.3",
+                    "type": "ForgeMod",
+                    "action": "add",
+                    "projectID": "237226",
+                    "fileID": "2776296"
+                }
+            ]
         },
         {
-          "id": "ironchest-1.15.2-10.0.3.jar",
-          "name": "Iron Chests",
-          "version": "10.0.3",
-          "type": "ForgeMod",
-          "action": "add",
-          "projectID": "228756",
-          "fileID": "2898344"
+            "id": "mckismetlab-deputy-server",
+            "name": "mcKismetLab Deputy Mods Server",
+            "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
+            "action": "allow",
+            "server": {
+                "address": "mcKismetLab.net",
+                "port": "56124",
+                "name": "servers.dat",
+                "download": {
+                    "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
+                }
+            },
+            "minecraftVersion": "1.15.2",
+            "minecraftType": "minecraftModpack",
+            "files": null,
+            "modpacks": null,
+            "modLoaders": {
+                "id": "forge-1.15.2-31.2.21-installer",
+                "client": {
+                    "fileName": "forge-1.15.2-31.2.21-client",
+                    "path": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-client.jar"
+                },
+                "fileName": "forge-1.15.2-31.2.21-installer.jar",
+                "name": "net.minecraftforge:forge:1.15.2-31.2.21",
+                "version": "1.15.2-forge-31.2.21",
+                "download": {
+                    "artifact": {
+                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-installer.jar",
+                        "path": null,
+                        "extractPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21.jar",
+                        "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-universal.jar"
+                    }
+                }
+            },
+            "modules": [
+                {
+                    "id": "jei-1.15.2-6.0.2.12.jar",
+                    "name": "Just Enough Items (JEI)",
+                    "version": "6.0.2.12",
+                    "type": "ForgeMod",
+                    "action": "add",
+                    "projectID": "238222",
+                    "fileID": "2988823"
+                },
+                {
+                    "id": "ironchest-1.15.2-10.0.3.jar",
+                    "name": "Iron Chests",
+                    "version": "10.0.3",
+                    "type": "ForgeMod",
+                    "action": "add",
+                    "projectID": "228756",
+                    "fileID": "2898344"
+                }
+            ]
+        },
+        {
+            "id": "mckismetlab-test-server",
+            "name": "mcKismetLab test vanilla Server",
+            "action": "disallow",
+            "server": null,
+            "minecraftVersion": "1.15.2",
+            "minecraftType": "minecraftVanilla",
+            "files": null,
+            "modpacks": null,
+            "modules": null,
+            "time": "2020/6/27 上午10:19:08"
         }
-      ]
-    },
-    {
-      "id": "mckismetlab-test-server",
-      "name": "mcKismetLab test vanilla Server",
-      "action": "disallow",
-      "server": null,
-      "minecraftVersion": "1.15.2",
-      "minecraftType": "minecraftVanilla",
-      "files": null,
-      "modpacks": null,
-      "modules": null,
-      "time": "2020/6/27 上午10:19:08"
-    }
-  ]
+    ]
 }
