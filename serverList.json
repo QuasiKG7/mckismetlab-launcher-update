@@ -1,5 +1,5 @@
 {
-    "version": "0.1.11",
+    "version": "0.1.12",
     "time": "2020/9/9 下午12:54:47",
     "serverList": [
         {
@@ -31,7 +31,7 @@
                 "version": "1.12.2-forge-14.23.5.2854",
                 "download": {
                     "artifact": {
-                        "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2847.jar",
+                        "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
                         "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
                         "extractPath": null,
                         "extractUniversalPath": null
