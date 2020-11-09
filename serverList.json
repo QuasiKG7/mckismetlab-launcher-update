@@ -1,6 +1,6 @@
 {
-    "version": "0.1.12",
-    "time": "2020/9/9 下午12:54:47",
+    "version": "0.1.13",
+    "time": "2020/11/9 下午4:37:30",
     "serverList": [
         {
             "id": "mckismetlab-main-server",
@@ -15,39 +15,42 @@
                     "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
                 }
             },
-            "minecraftVersion": "1.12.2",
+            "minecraftVersion": "1.15.2",
             "minecraftType": "minecraftModpack",
             "files": null,
             "modpacks": {
-                "name": "Enigmatica 2: Expert Skyblock",
-                "projectID": "295448",
-                "filesID": "2896716",
-                "version": "1.35"
+                "name": "Craft to Exile [Dissonance]",
+                "projectID": "381802",
+                "filesID": "3096471",
+                "version": "2.5.6"
             },
             "modLoaders": {
-                "id": "forge-1.12.2-14.23.5.2854",
-                "fileName": "forge-1.12.2-14.23.5.2854.jar",
-                "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
-                "version": "1.12.2-forge-14.23.5.2854",
+                "id": "forge-1.15.2-31.2.36-installer",
+                "fileName": "forge-1.15.2-31.2.36-installer.jar",
+                "name": "net.minecraftforge:forge:1.15.2-31.2.36",
+                "version": "1.15.2-forge-31.2.36",
                 "download": {
                     "artifact": {
-                        "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
-                        "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
-                        "extractPath": null,
-                        "extractUniversalPath": null
+                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36-installer.jar",
+                        "path": null,
+                        "extractPath": "net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36.jar",
+                        "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36-universal.jar"
                     }
                 },
-                "client": null
+                "client": {
+                    "fileName": "forge-1.15.2-31.2.36-client",
+                    "path": "net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36-client.jar"
+                }
             },
             "modules": [
                 {
-                    "id": "ItemBlacklist-1.4.3.jar",
-                    "name": "Item Blacklistr",
-                    "version": "1.4.3",
+                    "id": "FTB Chunk",
+                    "name": "FTB Chunks",
+                    "version": "1.1.1.17",
                     "type": "ForgeMod",
                     "action": "add",
-                    "projectID": "237226",
-                    "fileID": "2776296"
+                    "projectID": "314906",
+                    "fileID": "3043997"
                 }
             ]
         },
