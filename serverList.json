@@ -1,6 +1,6 @@
 {
     "version": "0.1.13",
-    "time": "2020/11/9 下午4:37:30",
+    "time": "2020/11/9 下午5:53:52",
     "serverList": [
         {
             "id": "mckismetlab-main-server",
@@ -58,55 +58,48 @@
             "id": "mckismetlab-deputy-server",
             "name": "mcKismetLab Deputy Mods Server",
             "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
-            "action": "disallow",
-            "server": {
-                "address": "mcKismetLab.net",
-                "port": "56124",
-                "name": "servers.dat",
-                "download": {
-                    "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
-                }
-            },
-            "minecraftVersion": "1.15.2",
+            "action": "allow",
+            "server": null,
+            "minecraftVersion": "1.16.4",
             "minecraftType": "minecraftModpack",
             "files": null,
             "modpacks": null,
             "modLoaders": {
-                "id": "forge-1.15.2-31.2.21-installer",
-                "client": {
-                    "fileName": "forge-1.15.2-31.2.21-client",
-                    "path": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-client.jar"
-                },
-                "fileName": "forge-1.15.2-31.2.21-installer.jar",
-                "name": "net.minecraftforge:forge:1.15.2-31.2.21",
-                "version": "1.15.2-forge-31.2.21",
+                "id": "forge-1.16.4-35.0.1-installer",
+                "fileName": "forge-1.16.4-35.0.1-installer.jar",
+                "name": "net.minecraftforge:forge:1.16.4-35.0.1",
+                "version": "1.16.4-forge-35.0.1",
                 "download": {
                     "artifact": {
-                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-installer.jar",
+                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-installer.jar",
                         "path": null,
-                        "extractPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21.jar",
-                        "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.21/forge-1.15.2-31.2.21-universal.jar"
+                        "extractPath": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1.jar",
+                        "extractUniversalPath": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-universal.jar"
                     }
+                },
+                "client": {
+                    "fileName": "forge-1.16.4-35.0.1-client",
+                    "path": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-client.jar"
                 }
             },
             "modules": [
                 {
-                    "id": "jei-1.15.2-6.0.2.12.jar",
+                    "id": "Xaero's World Map",
+                    "name": "Xaero's World Map",
+                    "version": "1.11.0.1",
+                    "type": "ForgeMod",
+                    "action": "add",
+                    "projectID": "317780",
+                    "fileID": "3103779"
+                },
+                {
+                    "id": "Just Enough Items (JEI)",
                     "name": "Just Enough Items (JEI)",
-                    "version": "6.0.2.12",
+                    "version": "7.6.0.53",
                     "type": "ForgeMod",
                     "action": "add",
                     "projectID": "238222",
-                    "fileID": "2988823"
-                },
-                {
-                    "id": "ironchest-1.15.2-10.0.3.jar",
-                    "name": "Iron Chests",
-                    "version": "10.0.3",
-                    "type": "ForgeMod",
-                    "action": "add",
-                    "projectID": "228756",
-                    "fileID": "2898344"
+                    "fileID": "3105896"
                 }
             ]
         },
