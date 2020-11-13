@@ -1,6 +1,6 @@
 {
-    "version": "0.1.14",
-    "time": "2020/11/9 下午7:59:18",
+    "version": "0.1.15",
+    "time": "2020/11/13 下午10:29:11",
     "serverList": [
         {
             "id": "mckismetlab-main-server",
@@ -21,25 +21,25 @@
             "modpacks": {
                 "name": "Craft to Exile [Dissonance]",
                 "projectID": "381802",
-                "filesID": "3096471",
-                "version": "2.5.6"
+                "filesID": "3108928",
+                "version": "2.6.1"
             },
             "modLoaders": {
-                "id": "forge-1.15.2-31.2.36-installer",
-                "fileName": "forge-1.15.2-31.2.36-installer.jar",
-                "name": "net.minecraftforge:forge:1.15.2-31.2.36",
-                "version": "1.15.2-forge-31.2.36",
+                "id": "forge-1.15.2-31.2.45-installer",
+                "fileName": "forge-1.15.2-31.2.45-installer.jar",
+                "name": "net.minecraftforge:forge:1.15.2-31.2.45",
+                "version": "1.15.2-forge-31.2.45",
                 "download": {
                     "artifact": {
-                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36-installer.jar",
+                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-installer.jar",
                         "path": null,
-                        "extractPath": "net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36.jar",
-                        "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36-universal.jar"
+                        "extractPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45.jar",
+                        "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-universal.jar"
                     }
                 },
                 "client": {
-                    "fileName": "forge-1.15.2-31.2.36-client",
-                    "path": "net/minecraftforge/forge/1.15.2-31.2.36/forge-1.15.2-31.2.36-client.jar"
+                    "fileName": "forge-1.15.2-31.2.45-client",
+                    "path": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-client.jar"
                 }
             },
             "modules": [
