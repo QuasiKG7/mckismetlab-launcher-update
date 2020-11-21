@@ -1,119 +1,157 @@
 {
-    "version": "0.1.15",
-    "time": "2020/11/13 下午10:29:11",
-    "serverList": [
-        {
-            "id": "mckismetlab-main-server",
-            "name": "mcKismetLab Main Mods Server",
-            "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
-            "action": "allow",
-            "server": {
-                "address": "mcKismetLab.net",
-                "port": "56123",
-                "name": "servers.dat",
-                "download": {
-                    "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
-                }
-            },
-            "minecraftVersion": "1.15.2",
-            "minecraftType": "minecraftModpack",
-            "files": null,
-            "modpacks": {
-                "name": "Craft to Exile [Dissonance]",
-                "projectID": "381802",
-                "filesID": "3108928",
-                "version": "2.6.1"
-            },
-            "modLoaders": {
-                "id": "forge-1.15.2-31.2.45-installer",
-                "fileName": "forge-1.15.2-31.2.45-installer.jar",
-                "name": "net.minecraftforge:forge:1.15.2-31.2.45",
-                "version": "1.15.2-forge-31.2.45",
-                "download": {
-                    "artifact": {
-                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-installer.jar",
-                        "path": null,
-                        "extractPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45.jar",
-                        "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-universal.jar"
-                    }
-                },
-                "client": {
-                    "fileName": "forge-1.15.2-31.2.45-client",
-                    "path": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-client.jar"
-                }
-            },
-            "modules": [
-                {
-                    "id": "FTB Chunk",
-                    "name": "FTB Chunks",
-                    "version": "1.1.1.17",
-                    "type": "ForgeMod",
-                    "action": "add",
-                    "projectID": "314906",
-                    "fileID": "3043997"
-                }
-            ]
-        },
-        {
-            "id": "mckismetlab-deputy-server",
-            "name": "mcKismetLab Deputy Mods Server",
-            "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
-            "action": "allow",
-            "server": null,
-            "minecraftVersion": "1.16.4",
-            "minecraftType": "minecraftModpack",
-            "files": null,
-            "modpacks": null,
-            "modLoaders": {
-                "id": "forge-1.16.4-35.0.1-installer",
-                "fileName": "forge-1.16.4-35.0.1-installer.jar",
-                "name": "net.minecraftforge:forge:1.16.4-35.0.1",
-                "version": "1.16.4-forge-35.0.1",
-                "download": {
-                    "artifact": {
-                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-installer.jar",
-                        "path": null,
-                        "extractPath": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1.jar",
-                        "extractUniversalPath": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-universal.jar"
-                    }
-                },
-                "client": {
-                    "fileName": "forge-1.16.4-35.0.1-client",
-                    "path": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-client.jar"
-                }
-            },
-            "modules": [
-                {
-                    "id": "Xaero's World Map",
-                    "name": "Xaero's World Map",
-                    "version": "1.11.0.1",
-                    "type": "ForgeMod",
-                    "action": "add",
-                    "projectID": "317780",
-                    "fileID": "3103779"
-                },
-                {
-                    "id": "Just Enough Items (JEI)",
-                    "name": "Just Enough Items (JEI)",
-                    "version": "7.6.0.53",
-                    "type": "ForgeMod",
-                    "action": "add",
-                    "projectID": "238222",
-                    "fileID": "3105896"
-                }
-            ]
-        },
-        {
-            "id": "mckismetlab-test-server",
-            "name": "mcKismetLab test vanilla Server",
-            "action": "disallow",
-            "server": null,
-            "minecraftVersion": "1.15.2",
-            "minecraftType": "minecraftVanilla",
-            "files": null,
-            "modpacks": null,
-            "modules": null,
-            "time": "2020/6/27 上午10:19:08"
+  "version": "0.1.16",
+  "time": "2020/11/21 下午10:43:24",
+  "serverList": [
+    {
+      "id": "mckismetlab-main-server",
+      "name": "mcKismetLab Main Mods Server",
+      "contentBlock": {
+        "title": "MCKISMETLAB",
+        "description": "主服模組包",
+        "imgUrl": "",
+        "whitelist": {
+          "playersList": "all"
         }
-    ]
+      },
+      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
+      "action": "allow",
+      "server": {
+        "address": "mcKismetLab.net",
+        "port": "56123",
+        "name": "servers.dat",
+        "download": {
+          "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
+        }
+      },
+      "minecraftVersion": "1.15.2",
+      "minecraftType": "minecraftModpack",
+      "files": null,
+      "modpacks": {
+        "name": "Craft to Exile [Dissonance]",
+        "projectID": "381802",
+        "filesID": "3108928",
+        "version": "2.6.1"
+      },
+      "modLoaders": {
+        "id": "forge-1.15.2-31.2.45-installer",
+        "fileName": "forge-1.15.2-31.2.45-installer.jar",
+        "name": "net.minecraftforge:forge:1.15.2-31.2.45",
+        "version": "1.15.2-forge-31.2.45",
+        "download": {
+          "artifact": {
+            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-installer.jar",
+            "path": null,
+            "extractPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45.jar",
+            "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-universal.jar"
+          }
+        },
+        "client": {
+          "fileName": "forge-1.15.2-31.2.45-client",
+          "path": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-client.jar"
+        }
+      },
+      "modules": [
+        {
+          "id": "FTB Chunk",
+          "name": "FTB Chunks",
+          "version": "1.1.1.17",
+          "type": "ForgeMod",
+          "action": "add",
+          "projectID": "314906",
+          "fileID": "3043997"
+        }
+      ]
+    },
+    {
+      "id": "mckismetlab-deputy-server",
+      "name": "mcKismetLab Deputy Mods Server",
+      "contentBlock": {
+        "title": "MCKISMETLAB",
+        "description": "副服模組包",
+        "imgUrl": "",
+        "whitelist": {
+          "playersList": "all"
+        }
+      },
+      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
+      "action": "allow",
+      "server": null,
+      "minecraftVersion": "1.16.4",
+      "minecraftType": "minecraftModpack",
+      "files": null,
+      "modpacks": null,
+      "modLoaders": {
+        "id": "forge-1.16.4-35.0.1-installer",
+        "fileName": "forge-1.16.4-35.0.1-installer.jar",
+        "name": "net.minecraftforge:forge:1.16.4-35.0.1",
+        "version": "1.16.4-forge-35.0.1",
+        "download": {
+          "artifact": {
+            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-installer.jar",
+            "path": null,
+            "extractPath": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1.jar",
+            "extractUniversalPath": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-universal.jar"
+          }
+        },
+        "client": {
+          "fileName": "forge-1.16.4-35.0.1-client",
+          "path": "net/minecraftforge/forge/1.16.4-35.0.1/forge-1.16.4-35.0.1-client.jar"
+        }
+      },
+      "modules": [
+        {
+          "id": "Xaero's World Map",
+          "name": "Xaero's World Map",
+          "version": "1.11.0.1",
+          "type": "ForgeMod",
+          "action": "add",
+          "projectID": "317780",
+          "fileID": "3103779"
+        },
+        {
+          "id": "Just Enough Items (JEI)",
+          "name": "Just Enough Items (JEI)",
+          "version": "7.6.0.53",
+          "type": "ForgeMod",
+          "action": "add",
+          "projectID": "238222",
+          "fileID": "3105896"
+        }
+      ]
+    },
+    {
+      "id": "mckismetlab-test-server",
+      "name": "mcKismetLab test vanilla Server",
+      "contentBlock": {
+        "title": "MCKISMETLAB",
+        "description": "Mods Test Server",
+        "imgUrl": "",
+        "whitelist": {
+          "playersList": [
+            {
+              "name": "Quasi_KG7",
+              "uuid": "93ea0589ec754cad8619995164382e8d"
+            },
+            {
+              "name": "LucyMain",
+              "uuid": "5c22439b7ce8498e85a1674c132b748b"
+            },
+            {
+              "name": "Moon_Flame",
+              "uuid": "a4427ad8e09445918298eb2288f28f4e"
+            }
+          ]
+        }
+      },
+      "loadHtml": "",
+      "action": "allow",
+      "server": null,
+      "minecraftVersion": "1.16.4",
+      "minecraftType": "minecraftVanilla",
+      "files": null,
+      "modpacks": null,
+      "modLoaders": null,
+      "modules": null
+    }
+  ]
 }
