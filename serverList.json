@@ -1,6 +1,6 @@
 {
-  "version": "0.1.16",
-  "time": "2020/11/22 下午1:33:06",
+  "version": "0.1.17",
+  "time": "2020/11/22 下午8:56:29",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -58,7 +58,8 @@
           "type": "CurseForge",
           "action": "add",
           "projectID": "314906",
-          "fileID": "3043997"
+          "fileID": "3043997",
+          "downloadUrl": ""
         }
       ]
     },
@@ -106,7 +107,8 @@
           "type": "CurseForge",
           "action": "add",
           "projectID": "317780",
-          "fileID": "3103779"
+          "fileID": "3103779",
+          "downloadUrl": ""
         },
         {
           "id": "Just Enough Items (JEI)",
@@ -115,7 +117,8 @@
           "type": "CurseForge",
           "action": "add",
           "projectID": "238222",
-          "fileID": "3105896"
+          "fileID": "3105896",
+          "downloadUrl": ""
         }
       ]
     },
