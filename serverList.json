@@ -1,6 +1,6 @@
 {
   "version": "0.1.16",
-  "time": "2020/11/21 下午10:43:24",
+  "time": "2020/11/22 下午1:33:06",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -55,7 +55,7 @@
           "id": "FTB Chunk",
           "name": "FTB Chunks",
           "version": "1.1.1.17",
-          "type": "ForgeMod",
+          "type": "CurseForge",
           "action": "add",
           "projectID": "314906",
           "fileID": "3043997"
@@ -103,7 +103,7 @@
           "id": "Xaero's World Map",
           "name": "Xaero's World Map",
           "version": "1.11.0.1",
-          "type": "ForgeMod",
+          "type": "CurseForge",
           "action": "add",
           "projectID": "317780",
           "fileID": "3103779"
@@ -112,7 +112,7 @@
           "id": "Just Enough Items (JEI)",
           "name": "Just Enough Items (JEI)",
           "version": "7.6.0.53",
-          "type": "ForgeMod",
+          "type": "CurseForge",
           "action": "add",
           "projectID": "238222",
           "fileID": "3105896"
