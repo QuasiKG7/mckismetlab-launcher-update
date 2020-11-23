@@ -1,6 +1,6 @@
 {
-  "version": "0.1.17",
-  "time": "2020/11/22 下午8:56:29",
+  "version": "0.1.18",
+  "time": "2020/11/23 上午11:04:07",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -75,7 +75,7 @@
         }
       },
       "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
-      "action": "allow",
+      "action": "disallow",
       "server": null,
       "minecraftVersion": "1.16.4",
       "minecraftType": "minecraftModpack",
