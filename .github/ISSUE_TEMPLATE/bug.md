@@ -1,7 +1,7 @@
 ---
 name: 錯誤報告
 about: 創建錯誤報告以幫助我們改進
-title: ''
+title: '簡單描述錯誤'
 labels: bug
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: 新功能要求
 about: 為這個專案提出新想法
-title: ''
+title: '描述新功能'
 labels: enhancement
 assignees: ''
 
