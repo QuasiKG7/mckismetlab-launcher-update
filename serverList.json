@@ -1,6 +1,6 @@
 {
-  "version": "0.1.18",
-  "time": "2020/11/23 上午11:04:07",
+  "version": "0.2.0",
+  "time": "2020/12/12 上午1:16:55",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -23,43 +23,39 @@
           "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
         }
       },
-      "minecraftVersion": "1.15.2",
+      "minecraftVersion": "1.12.2",
       "minecraftType": "minecraftModpack",
       "files": null,
       "modpacks": {
-        "name": "Craft to Exile [Dissonance]",
-        "projectID": "381802",
-        "filesID": "3108928",
-        "version": "2.6.1"
+        "name": "Dungeons, Dragons and Space Shuttles",
+        "projectID": "301717",
+        "filesID": "3074829",
+        "version": "8.0_R1"
       },
       "modLoaders": {
-        "id": "forge-1.15.2-31.2.45-installer",
-        "fileName": "forge-1.15.2-31.2.45-installer.jar",
-        "name": "net.minecraftforge:forge:1.15.2-31.2.45",
-        "version": "1.15.2-forge-31.2.45",
+        "id": "forge-1.12.2-14.23.5.2854",
+        "fileName": "forge-1.12.2-14.23.5.2854.jar",
+        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
+        "version": "1.12.2-forge-14.23.5.2854",
         "download": {
           "artifact": {
-            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-installer.jar",
-            "path": null,
-            "extractPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45.jar",
-            "extractUniversalPath": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-universal.jar"
+            "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
+            "extractPath": null,
+            "extractUniversalPath": null
           }
         },
-        "client": {
-          "fileName": "forge-1.15.2-31.2.45-client",
-          "path": "net/minecraftforge/forge/1.15.2-31.2.45/forge-1.15.2-31.2.45-client.jar"
-        }
+        "client": null
       },
       "modules": [
         {
-          "id": "FTB Chunk",
-          "name": "FTB Chunks",
-          "version": "1.1.1.17",
+          "id": "Item Blacklist",
+          "name": "Item Blacklist",
+          "version": "1.4.3",
           "type": "CurseForge",
           "action": "add",
-          "projectID": "314906",
-          "fileID": "3043997",
-          "downloadUrl": ""
+          "projectID": "237226",
+          "fileID": "2776296"
         }
       ]
     },
