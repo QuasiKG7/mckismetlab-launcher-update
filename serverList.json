@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "time": "2020/12/12 上午1:16:55",
+  "version": "0.3.0",
+  "time": "2021/1/23 下午9:25:57",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -27,10 +27,10 @@
       "minecraftType": "minecraftModpack",
       "files": null,
       "modpacks": {
-        "name": "Dungeons, Dragons and Space Shuttles",
-        "projectID": "301717",
-        "filesID": "3074829",
-        "version": "8.0_R1"
+        "name": "SkyFactory 4",
+        "projectID": "296062",
+        "filesID": "3012798",
+        "version": "4.2.2"
       },
       "modLoaders": {
         "id": "forge-1.12.2-14.23.5.2854",
