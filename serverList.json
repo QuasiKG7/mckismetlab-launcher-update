@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "time": "2021/1/23 下午9:25:57",
   "serverList": [
     {
@@ -56,6 +56,24 @@
           "action": "add",
           "projectID": "237226",
           "fileID": "2776296"
+        },
+		{
+          "id": "FTBLib",
+          "name": "FTBLib",
+          "version": "5.4.7.2",
+          "type": "CurseForge",
+          "action": "add",
+          "projectID": "237167",
+          "fileID": "2985811"
+        },
+		{
+          "id": "FTBUtilities",
+          "name": "FTBUtilities",
+          "version": "5.4.1.131",
+          "type": "CurseForge",
+          "action": "add",
+          "projectID": "237102",
+          "fileID": "3157548"
         }
       ]
     },
