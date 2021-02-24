@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "time": "2021/2/7 下午2:34:13",
+  "version": "0.4.2",
+  "time": "2021/2/24 下午8:55:38",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -39,7 +39,7 @@
         "version": "1.12.2-forge-14.23.5.2854",
         "download": {
           "artifact": {
-            "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
+            "url": "https://github.com/QuasiMkl/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
             "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
             "extractPath": null,
             "extractUniversalPath": null
