@@ -1,5 +1,5 @@
 {
-  "version": "0.4.3",
+  "version": "0.4.4",
   "time": "2021/2/24 下午8:59:41",
   "serverList": [
     {
@@ -14,7 +14,7 @@
         }
       },
       "loadHtml": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/mainModuleinfo.html",
-      "action": "disallow",
+      "action": "allow",
       "server": {
         "address": "mcKismetLab.net",
         "port": "56123",
