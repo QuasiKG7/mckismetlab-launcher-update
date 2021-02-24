@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "time": "2021/2/24 下午8:55:38",
+  "version": "0.4.3",
+  "time": "2021/2/24 下午8:59:41",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -13,14 +13,14 @@
           "playersList": "all"
         }
       },
-      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/mainModuleinfo.html",
+      "loadHtml": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/mainModuleinfo.html",
       "action": "disallow",
       "server": {
         "address": "mcKismetLab.net",
         "port": "56123",
         "name": "servers.dat",
         "download": {
-          "url": "https://github.com/QuasiKG7/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
+          "url": "https://github.com/QuasiMkl/mckismetlab-launcher-update/raw/master/mckismetlab-main-server/server/servers.dat"
         }
       },
       "minecraftVersion": "1.12.2",
@@ -70,7 +70,7 @@
           "playersList": "all"
         }
       },
-      "loadHtml": "https://raw.githubusercontent.com/QuasiKG7/mckismetlab-launcher-update/master/deputyModuleinfo.html",
+      "loadHtml": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/deputyModuleinfo.html",
       "action": "disallow",
       "server": null,
       "minecraftVersion": "1.16.4",
@@ -145,11 +145,30 @@
       "loadHtml": "",
       "action": "allow",
       "server": null,
-      "minecraftVersion": "1.16.4",
-      "minecraftType": "minecraftVanilla",
+      "minecraftVersion": "1.12.2",
+      "minecraftType": "minecraftModpack",
       "files": null,
-      "modpacks": null,
-      "modLoaders": null,
+      "modpacks": {
+        "name": "MC Eternal",
+        "projectID": "349129",
+        "filesID": "3018921",
+        "version": "1.3.7.1"
+      },
+      "modLoaders": {
+        "id": "forge-1.12.2-14.23.5.2854",
+        "fileName": "forge-1.12.2-14.23.5.2854.jar",
+        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
+        "version": "1.12.2-forge-14.23.5.2854",
+        "download": {
+          "artifact": {
+            "url": "https://github.com/QuasiMkl/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
+            "extractPath": null,
+            "extractUniversalPath": null
+          }
+        },
+        "client": null
+      },
       "modules": null
     }
   ]
