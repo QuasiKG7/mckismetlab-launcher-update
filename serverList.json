@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "time": "2021/3/13 下午8:59:41",
   "serverList": [
     {
@@ -145,29 +145,32 @@
       "loadHtml": "",
       "action": "allow",
       "server": null,
-      "minecraftVersion": "1.12.2",
+      "minecraftVersion": "1.16.5",
       "minecraftType": "minecraftModpack",
       "files": null,
       "modpacks": {
-        "name": "Antimatter Chemistry",
-        "projectID": "318032",
-        "filesID": "3161243",
-        "version": "1.2.33"
+        "name": "Valhelsia 3",
+        "projectID": "388169",
+        "filesID": "3256846",
+        "version": "3.2.3"
       },
       "modLoaders": {
-        "id": "forge-1.12.2-14.23.5.2854",
-        "fileName": "forge-1.12.2-14.23.5.2854.jar",
-        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
-        "version": "1.12.2-forge-14.23.5.2854",
+        "id": "forge-1.16.5-36.1.3-installer",
+        "fileName": "forge-1.16.5-36.1.3-installer.jar",
+        "name": "net.minecraftforge:forge:1.16.5-36.1.3",
+        "version": "1.16.5-forge-36.1.3",
         "download": {
           "artifact": {
-            "url": "https://github.com/QuasiMkl/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
-            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
-            "extractPath": null,
-            "extractUniversalPath": null
+            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3-installer.jar",
+            "path": null,
+            "extractPath": "net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3.jar",
+            "extractUniversalPath": "net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3-universal.jar"
           }
         },
-        "client": null
+        "client": {
+          "fileName": "forge-1.16.5-36.1.3-client",
+          "path": "net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3-client.jar"
+        }
       },
       "modules": null
     }
