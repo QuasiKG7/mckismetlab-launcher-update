@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "time": "2021/3/13 下午8:59:41",
+  "version": "0.7.0",
+  "time": "2021/5/9 上午10:28:58",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -157,51 +157,40 @@
       "loadHtml": "",
       "action": "allow",
       "server": null,
-      "minecraftVersion": "1.16.5",
+      "minecraftVersion": "1.12.2",
       "minecraftType": "minecraftModpack",
       "files": null,
       "modpacks": {
-        "name": "Valhelsia 3",
-        "projectID": "388169",
-        "filesID": "3256846",
-        "version": "3.2.3"
+        "name": "Omnifactory",
+        "projectID": "313440",
+        "filesID": "2936122",
+        "version": "1.2.2"
       },
       "modLoaders": {
-        "id": "forge-1.16.5-36.1.3-installer",
-        "fileName": "forge-1.16.5-36.1.3-installer.jar",
-        "name": "net.minecraftforge:forge:1.16.5-36.1.3",
-        "version": "1.16.5-forge-36.1.3",
+        "id": "forge-1.12.2-14.23.5.2854",
+        "fileName": "forge-1.12.2-14.23.5.2854.jar",
+        "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
+        "version": "1.12.2-forge-14.23.5.2854",
         "download": {
           "artifact": {
-            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3-installer.jar",
-            "path": null,
-            "extractPath": "net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3.jar",
-            "extractUniversalPath": "net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3-universal.jar"
+            "url": "https://github.com/QuasiMkl/mckismetlab-launcher-update/raw/master/forge/forge-1.12.2-14.23.5.2854.jar",
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
+            "extractPath": null,
+            "extractUniversalPath": null
           }
         },
-        "client": {
-          "fileName": "forge-1.16.5-36.1.3-client",
-          "path": "net/minecraftforge/forge/1.16.5-36.1.3/forge-1.16.5-36.1.3-client.jar"
-        }
+        "client": null
       },
       "modules": [
         {
-          "id": "FTB Chunks",
-          "name": "FTB Chunks",
-          "version": "1605.2.3",
+          "id": "Item Blacklist",
+          "name": "Item Blacklist",
+          "version": "1.4.3",
           "type": "CurseForge",
           "action": "add",
-          "projectID": "314906",
-          "fileID": "3248884"
-        },
-        {
-          "id": "Ma Essentials",
-          "name": "Ma Essentials",
-          "version": "3.4.0",
-          "type": "CurseForge",
-          "action": "add",
-          "projectID": "345135",
-          "fileID": "3061859"
+          "projectID": "237226",
+          "fileID": "2776296",
+          "downloadUrl": ""
         }
       ]
     }
