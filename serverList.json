@@ -1,6 +1,6 @@
 {
-  "version": "0.7.1",
-  "time": "2021/5/9 上午10:28:58",
+  "version": "0.7.2",
+  "time": "2021/5/9 下午12:25:33",
   "serverList": [
     {
       "id": "mckismetlab-main-server",
@@ -14,7 +14,7 @@
         }
       },
       "loadHtml": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/mainModuleinfo.html",
-      "action": "allow",
+      "action": "disallow",
       "server": {
         "address": "mcKismetLab.net",
         "port": "56123",
