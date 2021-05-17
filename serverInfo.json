@@ -5,6 +5,7 @@
         "header": "MCKISMETLAB",
         "subheader": "主服模組包伺服器",
         "modpackName": "Omnifactory",
+        "modpackLinkUrl": "https://www.curseforge.com/minecraft/modpacks/omnifactory",
         "modpackImgUrl": "https://media.forgecdn.net/avatars/thumbnails/198/486/64/64/636900272840730252.jpeg",
         "whitelist": {
             "playersList": "all"
@@ -16,6 +17,7 @@
         "header": "MCKISMETLAB",
         "subheader": "副服模組包伺服器",
         "modpackName": "",
+        "modpackLinkUrl": "",
         "modpackImgUrl": "",
         "whitelist": {
             "playersList": "all"
@@ -26,6 +28,7 @@
         "logoImgUrl": "",
         "header": "MCKISMETLAB",
         "subheader": "測試服伺服器",
+        "modpackLinkUrl": "",
         "modpackName": "測試模組包",
         "modpackImgUrl": "",
         "whitelist": {
