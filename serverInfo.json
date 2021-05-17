@@ -1,0 +1,50 @@
+[
+    {
+        "mckismetlab-main-server": {
+            "id": "mckismetlab-main-server",
+            "logoImgUrl": "",
+            "header": "MCKISMETLAB",
+            "subheader": "主服模組包伺服器",
+            "modpackName": "Omnifactory",
+            "modpackImgUrl": "https://media.forgecdn.net/avatars/thumbnails/198/486/64/64/636900272840730252.jpeg",
+            "whitelist": {
+                "playersList": "all"
+            }
+        },
+        "mckismetlab-deputy-server": {
+            "id": "mckismetlab-deputy-server",
+            "logoImgUrl": "",
+            "header": "MCKISMETLAB",
+            "subheader": "副服模組包伺服器",
+            "modpackName": "",
+            "modpackImgUrl": "",
+            "whitelist": {
+                "playersList": "all"
+            }
+        },
+        "mckismetlab-test-server": {
+            "id": "mckismetlab-test-server",
+            "logoImgUrl": "",
+            "header": "MCKISMETLAB",
+            "subheader": "測試服伺服器",
+            "modpackName": "測試模組包",
+            "modpackImgUrl": "",
+            "whitelist": {
+                "playersList": [
+                    {
+                        "name": "Quasi_KG7",
+                        "uuid": "93ea0589ec754cad8619995164382e8d"
+                    },
+                    {
+                        "name": "LucyMain",
+                        "uuid": "5c22439b7ce8498e85a1674c132b748b"
+                    },
+                    {
+                        "name": "Moon_Flame",
+                        "uuid": "a4427ad8e09445918298eb2288f28f4e"
+                    }
+                ]
+            }
+        }
+    }
+]
