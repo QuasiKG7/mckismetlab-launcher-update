@@ -8,7 +8,8 @@
         "modpackLinkUrl": "https://www.curseforge.com/minecraft/modpacks/omnifactory",
         "modpackImgUrl": "https://media.forgecdn.net/avatars/thumbnails/198/486/64/64/636900272840730252.jpeg",
         "whitelist": {
-            "playersList": "all"
+			"type": "all",
+            "playersList": []
         }
     },
     "mckismetlab-deputy-server": {
@@ -20,7 +21,8 @@
         "modpackLinkUrl": "",
         "modpackImgUrl": "",
         "whitelist": {
-            "playersList": "all"
+			"type": "all",
+            "playersList": []
         }
     },
     "mckismetlab-test-server": {
@@ -32,6 +34,7 @@
         "modpackName": "測試模組包",
         "modpackImgUrl": "",
         "whitelist": {
+			"type": "realName",
             "playersList": [
                 {
                     "name": "Quasi_KG7",
