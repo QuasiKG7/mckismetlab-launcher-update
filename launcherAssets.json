@@ -5,8 +5,8 @@
     "mckismetlab-main-server": {
       "id": "mckismetlab-main-server",
       "contentPageBlock": {
-        "title": "主服模組伺服器",
-        "url": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/serverPage.json"
+        "moduleListText": "主服模組伺服器",
+        "serverPageUrl": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/serverPage.json"
       },
       "minecraftVersion": "1.12.2",
       "minecraftType": "minecraftModpack",
