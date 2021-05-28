@@ -1,0 +1,114 @@
+{
+  "version": "0.5.0",
+  "date": "2021/3/13 下午8:59:41",
+  "serverlist": {
+    "mckismetlab-main-server": {
+      "id": "mckismetlab-main-server",
+      "contentPageBlock": {
+        "title": "主服模組伺服器",
+        "url": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/serverInfo.json"
+      },
+      "minecraftVersion": "1.12.2",
+      "minecraftType": "minecraftModpack",
+      "modpack": {
+        "type": "revise",
+        "name": "Omnifactory",
+        "projectId": 0,
+        "fileId": 0,
+        "version": "1.2.2-r.1",
+        "url": "https://www.dropbox.com/s/3su4oau8au758zf/Omnifactory-v1.2.2.zip?dl=1"
+      },
+      "modLoaders": {
+        "type": "forge",
+        "id": "forge-1.12.2-14.23.5.2854",
+        "version": "1.12.2-forge-14.23.5.2854",
+        "necessaryFilePath": [
+          "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar"
+        ],
+        "download": {
+          "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-installer.jar"
+        }
+      },
+      "modules": [
+        {
+          "name": "Item Blacklist",
+          "version": "1.4.3",
+          "type": "CurseForge",
+          "action": "ADD",
+          "projectId": 237226,
+          "fileId": 2776296
+        }
+      ]
+    },
+    "mckismetlab-deputy-server": {
+      "id": "mckismetlab-deputy-server",
+      "contentPageBlock": {
+        "moduleListText": "副服模組伺服器",
+        "serverPageUrl": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/serverInfo.json"
+      },
+      "minecraftVersion": "1.16.5",
+      "minecraftType": "minecraftModules",
+      "modpack": null,
+      "modLoaders": {
+        "type": "forge",
+        "id": "forge-1.16.5-36.1.0",
+        "version": "1.16.5-forge-36.1.0",
+        "necessaryFilePath": [
+          "net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-client.jar"
+        ],
+        "download": {
+          "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+        }
+      },
+      "modules": [
+        {
+          "name": "JourneyMap",
+          "version": "5.7.1",
+          "type": "CurseForge",
+          "action": "ADD",
+          "projectId": 32274,
+          "fileId": 3222876,
+          "downloadUrl": ""
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "version": "7.7.0.98",
+          "type": "CurseForge",
+          "action": "ADD",
+          "projectId": 238222,
+          "fileId": 3312285,
+          "downloadUrl": ""
+        }
+      ]
+    },
+    "mckismetlab-test-server": {
+      "id": "mckismetlab-test-server",
+      "contentPageBlock": {
+        "moduleListText": "測試服伺服器",
+        "serverPageUrl": "https://raw.githubusercontent.com/QuasiMkl/mckismetlab-launcher-update/master/serverInfo.json"
+      },
+      "minecraftVersion": "1.12.2",
+      "minecraftType": "minecraftModpack",
+      "modpack": {
+        "type": "general",
+        "name": "Antimatter Chemistry",
+        "projectId": 318032,
+        "fileId": 3161243,
+        "version": "1.2.33",
+        "url": ""
+      },
+      "modLoaders": {
+        "type": "forge",
+        "id": "forge-1.12.2-14.23.5.2854",
+        "version": "1.12.2-forge-14.23.5.2854",
+        "necessaryFilePath": [
+          "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar"
+        ],
+        "download": {
+          "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-installer.jar"
+        }
+      },
+      "modules": []
+    }
+  }
+}
